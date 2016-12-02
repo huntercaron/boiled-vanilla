@@ -38,14 +38,6 @@ body {
     display: flex;
 }
 
-.flex-center-h {
-    justify-content: center;
-}
-
-.flex-center-v {
-    align-items: center;
-}
-
 .flex-center {
     align-items: center;
     justify-content: center;
