@@ -21,8 +21,8 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/main-ck.css",
-		"oF": 1,
+		"oAP": "\/css\/main.css",
+		"oF": 3,
 		"oS": 0
 		},
 	"\/images\/favicon.png": {
@@ -46,9 +46,9 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/js\/min\/main-min.js",
-		"oF": 0,
-		"sC": 3,
+		"oAP": "\/build\/js\/main.js",
+		"oF": 2,
+		"sC": 0,
 		"tS": 1
 		},
 	"\/README.md": {
